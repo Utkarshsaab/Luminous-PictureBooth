@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Gallery & Sound",
+  "description": "An immersive photo gallery experience with AI-powered storytelling, dark mode, and a curated background music player.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
